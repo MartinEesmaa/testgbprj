@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d5fdb2f8-2a62-4924-9574-059819847009",
+  "name": "nice2",
+  "symbol": "bg_nice2",
+  "width": 37,
+  "height": 37,
+  "imageWidth": 300,
+  "imageHeight": 300,
+  "filename": "nice2.png",
+  "tileColors": "",
+  "autoColor": false
+}

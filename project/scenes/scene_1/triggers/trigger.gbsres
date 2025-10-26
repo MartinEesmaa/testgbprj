@@ -1,0 +1,29 @@
+{
+  "_resourceType": "trigger",
+  "id": "55011fba-bafb-46fb-a636-1cfd365771c4",
+  "name": "",
+  "prefabId": "",
+  "x": 0,
+  "y": 1,
+  "symbol": "trigger_0",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_CAMERA_SHAKE",
+      "args": {
+        "time": 0.5,
+        "frames": 30,
+        "shakeDirection": "horizontal",
+        "magnitude": {
+          "type": "number",
+          "value": 5
+        }
+      },
+      "id": "f955ecca-83dd-42e7-bd6a-1f5136fd171e"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}

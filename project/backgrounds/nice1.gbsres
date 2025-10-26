@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "0f82f4d3-dbc8-4250-ad68-2dfc3691c8a5",
+  "name": "nice1",
+  "symbol": "bg_nice1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "nice1.png",
+  "tileColors": "",
+  "autoColor": false
+}

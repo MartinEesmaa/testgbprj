@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "87373ef7-f4f5-477c-8e0a-548ac005f039",
+  "name": "test",
+  "symbol": "song_test",
+  "filename": "test.mod",
+  "settings": {},
+  "type": "mod"
+}
