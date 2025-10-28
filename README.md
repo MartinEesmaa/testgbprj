@@ -10,6 +10,6 @@ To see the source project, you need GB Studio installed on your PC.
 
 This gameboy cartridge ran using Gearboy emulator on Linux.
 
-![samplegb](https://raw.githubusercontent.com/MartinEesmaa/testgbprj/refs/heads/master/sample-gb.mp4)
+![samplegb](sample-gb.gif)
 
 - Martin Eesmaa
