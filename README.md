@@ -6,4 +6,10 @@ To play, you can download in [Releases](https://github.com/MartinEesmaa/testgbpr
 
 To see the source project, you need GB Studio installed on your PC.
 
+# Sample preview video
+
+This gameboy cartridge ran using Gearboy emulator on Linux.
+
+![samplegb](sample-gb.mp4)
+
 - Martin Eesmaa
